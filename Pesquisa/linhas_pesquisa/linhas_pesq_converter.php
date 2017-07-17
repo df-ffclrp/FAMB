@@ -35,7 +35,7 @@ foreach ($json_array as $item) {
 // Varre o array de grupos de pesquisa e monta o HTML para cada grupo e suas linhas de pesquisa
 foreach ($grupos_pesq as $grupo => $info) {
 
-    echo "<h2>" . $grupo . "</h2>"  . PHP_EOL;
+    echo "<h2>" . $grupo . "</h2>";
 
     //var_dump($info);
 
@@ -46,17 +46,17 @@ foreach ($grupos_pesq as $grupo => $info) {
         // Responsáveis por aquela linha
         if ($valor['nome_linha'] != $linha_atual){
 
-            //echo <p>;
-            echo "<h3>" . $valor['nome_linha'] . '</h3> '  . PHP_EOL;
+            echo "<br><h3>" . $valor['nome_linha'] . '</h3> ';
+            echo "<p>";
         }
 
         echo "<strong> Docente: </strong> " . $valor['docente'] .
-        " - <a href={$valor['lattes']} target=_blank title=\"Ver Currículo Lattes\"> Lattes </a>" . PHP_EOL . PHP_EOL;
-
+        " - <a href={$valor['lattes']} target=_blank title=\"Ver Currículo Lattes\"> Lattes </a><br>";
 
         // Guarda a linha atual para a pŕoxima iteração do foreach
         $linha_atual = $valor['nome_linha'];
+
     }
-    //echo "</p>"  . PHP_EOL . PHP_EOL;
+    echo "</p>";
 
 }
