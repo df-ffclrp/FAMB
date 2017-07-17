@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "nome_linha": "Fotoprocessos nos Sistemas Biológicos Naturais e Modelo, Aplicações Médicas e Ecológicas",
+    "grupo_linha": "Biofísica Molecular",
+    "docente": "Iouri Borissevitch",
+    "lattes": "http://lattes.cnpq.br/7484160631352934"
+  },
+  {
+    "id": 2,
+    "nome_linha": "Espectrometria de Fontes Emissoras de Radiação Óptica",
+    "grupo_linha": "Biofísica Molecular",
+    "docente": "Luciano Bachmann",
+    "lattes": "http://lattes.cnpq.br/0295048765353951"
+  },
+  {
+    "id": 3,
+    "nome_linha": "Espectroscopia Vibracional de Tecidos Biológicos: Diagnóstico de Lesões Cancerosas",
+    "grupo_linha": "Biofísica Molecular",
+    "docente": "Luciano Bachmann",
+    "lattes": "http://lattes.cnpq.br/0295048765353951"
+  },
+  {
+    "id": 4,
+    "nome_linha": "Estrutura, Função e Interações de Moléculas com Interesse Biológico",
+    "grupo_linha": "Biofísica Molecular",
+    "docente": "Antônio José da Costa Filho",
+    "lattes": "http://lattes.cnpq.br/0698125032222516"
+  },
+  {
+    "id": 5,
+    "nome_linha": "Estudo de Propriedades Ópticas de Materiais",
+    "grupo_linha": "Biofísica Molecular",
+    "docente": "Luciano Bachmann",
+    "lattes": "http://lattes.cnpq.br/0295048765353951"
+  },
+  {
+    "id": 6,
+    "nome_linha": "Técnicas de Fluorescência Aplicadas em Biofísica",
+    "grupo_linha": "Biofísica Molecular",
+    "docente": "Amando Ito",
+    "lattes": "http://lattes.cnpq.br/2648985692429248"
+  },
+  {
+    "id": 7,
+    "nome_linha": "Análise Sistemática In Silico do Comportamento Crítico do Peptídeo Amilóide Beta e de Alguns dos seus Mutantes",
+    "grupo_linha": "Física de Sistemas Complexos",
+    "docente": "Nelson Alves",
+    "lattes": "http://lattes.cnpq.br/3997537881340928"
+  },
+  {
+    "id": 8,
+    "nome_linha": "Física Estatística de Sistemas Biológicos",
+    "grupo_linha": "Física de Sistemas Complexos",
+    "docente": "Marco Antônio Alves da Silva",
+    "lattes": "http://lattes.cnpq.br/1188741573332436"
+  },
+  {
+    "id": 9,
+    "nome_linha": "Modelagem Computacional de Redes Neuronais Biologicamente Plausíveis",
+    "grupo_linha": "Física de Sistemas Complexos",
+    "docente": "Antônio Carlos Roque",
+    "lattes": "http://lattes.cnpq.br/4609096963207702"
+  },
+  {
+    "id": 10,
+    "nome_linha": "Modelagem em Sistemas Complexos",
+    "grupo_linha": "Física de Sistemas Complexos",
+    "docente": "Alexandre Souto Martinez",
+    "lattes": "http://lattes.cnpq.br/8703740676075525"
+  },
+  {
+    "id": 11,
+    "nome_linha": "Avanços, Benefícios e Riscos da Nanotecnologia Aplicada À Saúde",
+    "grupo_linha": "Física Médica",
+    "docente": "Patrícia Nicolucci",
+    "lattes": "http://lattes.cnpq.br/0198281726965444"
+  },
+  {
+    "id": 12,
+    "nome_linha": "Conectividade Estrutural e Funcional no Cérebro Humano em Repouso",
+    "grupo_linha": "Física Médica",
+    "docente": "Carlos Garrido",
+    "lattes": "http://lattes.cnpq.br/3761041649501034"
+  },
+  {
+    "id": 13,
+    "nome_linha": "Controle da Qualidade de Equipamentos e Procedimentos Radiológicos",
+    "grupo_linha": "Física Médica",
+    "docente": "Alessandro Martins",
+    "lattes": "http://lattes.cnpq.br/9386236188830058"
+  },
+  {
+    "id": 14,
+    "nome_linha": "Desenvolvimento de Instrumentação Biomédica",
+    "grupo_linha": "Física Médica",
+    "docente": "Theo Pavan",
+    "lattes": "http://lattes.cnpq.br/3593197075532072"
+  },
+  {
+    "id": 15,
+    "nome_linha": "Desenvolvimento de Instrumentação Biomédica",
+    "grupo_linha": "Física Médica",
+    "docente": "Adilton Carneiro",
+    "lattes": "http://lattes.cnpq.br/4492074174039321"
+  },
+  {
+    "id": 16,
+    "nome_linha": "Desenvolvimento de Metodologia de Arterial Spin Labeling para Avaliação da Perfusão Cerebral e da Conectividade Funcional",
+    "grupo_linha": "Física Médica",
+    "docente": "Renata Leoni",
+    "lattes": "http://lattes.cnpq.br/1441624000902715"
+  },
+  {
+    "id": 17,
+    "nome_linha": "Desenvolvimento de Simuladores Sintéticos para Treinamento Clínico em Diagnóstico por Imagem e em Interveções Cirúrgicas",
+    "grupo_linha": "Física Médica",
+    "docente": "Adilton Carneiro",
+    "lattes": "http://lattes.cnpq.br/4492074174039321"
+  },
+  {
+    "id": 18,
+    "nome_linha": "Desenvolvimento de Técnicas de Elastografia por Métodos Acústicos e Magnéticos para o Diagnóstico e Terapia Clínica",
+    "grupo_linha": "Física Médica",
+    "docente": "Adilton Carneiro",
+    "lattes": "http://lattes.cnpq.br/4492074174039321"
+  },
+  {
+    "id": 19,
+    "nome_linha": "Desenvolvimento de Técnicas de Elastografia por Métodos Acústicos e Magnéticos para o Diagnóstico e Terapia Clínica",
+    "grupo_linha": "Física Médica",
+    "docente": "Theo Pavan",
+    "lattes": "http://lattes.cnpq.br/3593197075532072"
+  },
+  {
+    "id": 20,
+    "nome_linha": "Dosimetria e Desenvolvimento de Novos Dosímetros para Radiações Ionizantes",
+    "grupo_linha": "Física Médica",
+    "docente": "Oswaldo Baffa",
+    "lattes": "http://lattes.cnpq.br/1062115267877962"
+  },
+  {
+    "id": 21,
+    "nome_linha": "Dosimetria e Desenvolvimento de Novos Dosímetros para Radiações Ionizantes",
+    "grupo_linha": "Física Médica",
+    "docente": "Patrícia Nicolucci",
+    "lattes": "http://lattes.cnpq.br/0198281726965444"
+  },
+  {
+    "id": 22,
+    "nome_linha": "Dosimetria e Desenvolvimento de Novos Dosímetros para Radiações Ionizantes",
+    "grupo_linha": "Física Médica",
+    "docente": "Alessandro Martins",
+    "lattes": "http://lattes.cnpq.br/9386236188830058"
+  },
+  {
+    "id": 23,
+    "nome_linha": "Dosimetria e Desenvolvimento de Novos Dosímetros para Radiações Ionizantes",
+    "grupo_linha": "Física Médica",
+    "docente": "Juliana Pavoni",
+    "lattes": "http://lattes.cnpq.br/5928243233680621"
+  },
+  {
+    "id": 24,
+    "nome_linha": "Estudo de Estimulação Transcraniana Magnética em Pacientes Portadores de Epilepsia e Acidente Vascular Cerebral",
+    "grupo_linha": "Física Médica",
+    "docente": "Oswaldo Baffa",
+    "lattes": "http://lattes.cnpq.br/1062115267877962"
+  },
+  {
+    "id": 25,
+    "nome_linha": "Estudo de Novas Modalidades Diagnósticas de Câncer de Mama Usando Raios X Espalhados",
+    "grupo_linha": "Física Médica",
+    "docente": "Martin Poletti",
+    "lattes": "http://lattes.cnpq.br/0321627224103401"
+  },
+  {
+    "id": 26,
+    "nome_linha": "Estudo e Desenvolvimentos em Diagnóstico, Terapia e Modelagem de Câncer",
+    "grupo_linha": "Física Médica",
+    "docente": "Patrícia Nicolucci",
+    "lattes": "http://lattes.cnpq.br/0198281726965444"
+  },
+  {
+    "id": 27,
+    "nome_linha": "Imagens Fotoacústicas e Ultrassônicas para Caracterização de Tecidos Viscoelásticos",
+    "grupo_linha": "Física Médica",
+    "docente": "Theo Pavan",
+    "lattes": "http://lattes.cnpq.br/3593197075532072"
+  },
+  {
+    "id": 28,
+    "nome_linha": "Implementação de Um Sistema de Localização Espacial de Regiões Cerebrais em Tempo Real para Aplicação de Tms por Co-Registro com FMRI",
+    "grupo_linha": "Física Médica",
+    "docente": "Oswaldo Baffa",
+    "lattes": "http://lattes.cnpq.br/1062115267877962"
+  },
+  {
+    "id": 29,
+    "nome_linha": "Instrumentação Pré-Clínica, Quantificação Diagnóstica e Dosimetria em Medicina Nuclear",
+    "grupo_linha": "Física Médica",
+    "docente": "Éder Morais",
+    "lattes": "http://lattes.cnpq.br/0293471638186783"
+  },
+  {
+    "id": 30,
+    "nome_linha": "Processamento de Imagens Médicas e Sinais Biomédicos",
+    "grupo_linha": "Física Médica",
+    "docente": "Luiz Otávio Murta",
+    "lattes": "http://lattes.cnpq.br/0276583403489241"
+  },
+  {
+    "id": 31,
+    "nome_linha": "Sensores e Materiais",
+    "grupo_linha": "Física Médica",
+    "docente": "Marcelo Mulato",
+    "lattes": "http://lattes.cnpq.br/2411774392945534"
+  }
+]
